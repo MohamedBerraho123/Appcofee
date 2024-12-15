@@ -6,11 +6,11 @@ const menuItems = [
   { id: '1', name: 'Espresso', price: '$3', image: require('../assets/espresso.jpg') },
   { id: '2', name: 'Cappuccino', price: '$4', image: require('../assets/cappuccino.jpg') },
   { id: '3', name: 'Latte', price: '$4.5', image: require('../assets/latte.jpg') },
-  { id: '3', name: 'Apple juice', price: '$7', image: require('../assets/Apple juice.jpg') },
-  { id: '3', name: 'Avocado juice', price: '$8', image: require('../assets/Avocado juice.jpg') },
-  { id: '3', name: 'pineapple juice', price: '$9', image: require('../assets/pineapple juice.jpg') },
-  { id: '3', name: 'cocacola', price: '$5', image: require('../assets/cocacola.jpg') },
-  { id: '3', name: 'Sprite', price: '$5', image: require('../assets/Sprite.jpg') },
+  { id: '4', name: 'Apple juice', price: '$7', image: require('../assets/Apple juice.jpg') },
+  { id: '5', name: 'Avocado juice', price: '$8', image: require('../assets/Avocado juice.jpg') },
+  { id: '6', name: 'pineapple juice', price: '$9', image: require('../assets/pineapple juice.jpg') },
+  { id: '7', name: 'cocacola', price: '$5', image: require('../assets/cocacola.jpg') },
+  { id: '8', name: 'Sprite', price: '$5', image: require('../assets/Sprite.jpg') },
 
 ];
 

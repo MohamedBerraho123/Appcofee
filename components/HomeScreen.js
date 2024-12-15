@@ -11,7 +11,6 @@ const HomeScreen = ({ navigation }) => {
       <View style={styles.overlay}>
         <Text style={styles.title}>Welcome to Café Reserve</Text>
         <Button title="View Menu" onPress={() => navigation.navigate('Menu')} />
-        <Button title="Make a Reservation" onPress={() => navigation.navigate('Reservation')} />
       </View>
     </ImageBackground>
   );
